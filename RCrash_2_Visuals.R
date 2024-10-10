@@ -11,7 +11,6 @@
 # Session -> Set Working Directory -> Choose Directory... and select the folder
 # where you would like to set it.
 # This is my working directory:
-setwd("c:/Users/E sol Cho/Binghamton/coursework/2022/RCrashCourse_S2022")
 
 
 # If I wanted to save some data using the save() function, this is where it
@@ -116,7 +115,6 @@ load(file = "Object.RData")
 # Here's the ggplot2 cheat sheet: 
 # https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf
 
-setwd("c:/Users/E sol Cho/Binghamton/coursework/2022/RCrashCourse_S2022")
 setwd("/Users/yang/Downloads/drive-download-20220226T181306Z-001")
 # First we need to download and load the 'ggplot2' package. 
 #install.packages('ggplot2') 
